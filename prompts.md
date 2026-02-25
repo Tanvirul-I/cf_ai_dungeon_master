@@ -52,3 +52,5 @@ _This prompt was chosen to create the frontend for the cloudflare worker. It was
 _Generated the frontend for the cloudflare worker._
 
 ---
+
+> **Note:** There were other prompts made throughout development for minor bug fixes, updates, and small adjustments that are not documented here. These are all the major changes made by AI to the code.
