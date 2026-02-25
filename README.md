@@ -2,6 +2,8 @@
 
 A text-based fantasy RPG powered by AI. An intelligent Dungeon Master generates immersive scenes, tracks your inventory, remembers NPCs, and reacts to your every action, all running on Cloudflare's edge.
 
+🔗 **Live Demo**: [ai-dungeon-master.tanvirul.workers.dev](https://ai-dungeon-master.tanvirul.workers.dev)
+
 ## Tech Stack
 
 ### LLM
